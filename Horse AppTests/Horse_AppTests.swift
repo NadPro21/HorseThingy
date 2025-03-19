@@ -3,7 +3,7 @@ import XCTest
 @testable import Horse_App
 
 struct Horse_AppTests {
-
+    // comment
     // unit testing to check that the functions work correct, still incorrect
     func testAddingHorse() {
         let initialCount = horseData.horses.count
